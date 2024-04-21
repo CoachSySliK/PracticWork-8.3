@@ -25,5 +25,5 @@ int main()
     cout << "Вы сможете изготовить " << numberCub << ending(numberCub, 99) << endl;
     //cout << numberSets << endl;
     cout << "Вы сможете изготовить набор из " << numberSet << ending(numberCub, 99) << endl;
-
+    return 0;
 }
